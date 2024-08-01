@@ -1,4 +1,5 @@
 ## Hi there 👋 
+ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
 
 <!--
 **PROTOTYPE9111/PROTOTYPE9111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
