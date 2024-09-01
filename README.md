@@ -1,7 +1,7 @@
 # 💫 About Me:
 #BackTo00's<br>#CYBERIZE<br>#LegalTechRevolution<br>#LawyersCanCode
 
-[(https://www.codewars.com/users/PROTOTYPE9111/badges/large)]
+![image](https://www.codewars.com/users/PROTOTYPE9111/badges/large)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_prototype9111_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prototype9111) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prototype_9111) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/prototype9111) 
