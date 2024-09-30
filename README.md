@@ -2,7 +2,8 @@
 #BackTo00's<br>#CYBERIZE<br>#LegalTechRevolution<br>#LawyersCanCode
 
 ![image](https://www.codewars.com/users/PROTOTYPE9111/badges/large)
-  <a
+  
+<div
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0009-0005-3173-2938"
@@ -14,7 +15,7 @@
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0005-3173-2938
-    </a>
+    </div>
 
 
 ## 🌐 Socials:
