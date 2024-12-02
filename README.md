@@ -1,5 +1,5 @@
 # 💫 About Me:
-#BackTo00's<br>#CYBERIZE<br>#LegalTechRevolution<br>#LawyersCanCode
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=C367F7&background=FFFFFF00&width=435&lines=%23BackTo00's)](https://git.io/typing-svg)<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=%23CYBERIZE)](https://git.io/typing-svg)<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7A81C&width=435&lines=%23LegalTechRevolution)](https://git.io/typing-svg)<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=1CF767&width=435&lines=%23LawyersCanCode)](https://git.io/typing-svg)
 
 ![image](https://www.codewars.com/users/PROTOTYPE9111/badges/large)
   
