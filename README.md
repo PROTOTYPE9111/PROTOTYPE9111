@@ -37,6 +37,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=prototype9111&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prototype9111&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prototype9111&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](![Ren'Py](https://a11ybadges.com/badge?logo=renpy))
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prototype9111&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
